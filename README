@@ -1,0 +1,4 @@
+// HOW TO SET THIS UP:
+// First, locate the "Connect" folder, and put the "input_data.csv target_data.csv training_data.csv
+// model.pth main.py data.py and config.bash into that folder.
+// You can add addons to the main.py script to adjust it hoverwer you want.
